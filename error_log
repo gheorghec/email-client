@@ -1,1 +1,0 @@
-[10-Oct-2016 10:41:05 Europe/Bucharest] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/drsmiler/public_html/licenta/lib/main-class.php on line 12
